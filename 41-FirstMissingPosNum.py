@@ -1,3 +1,12 @@
+"""
+41. First Missing Positive [Hard]
+Given an unsorted integer array nums, return the smallest missing positive integer.
+You must implement an algorithm that runs in O(n) time and uses O(1) auxiliary space.
+"""
+
+#----------------------------------------------------------------------------------------------
+
+
 def firstMissingPositive(nums):
   nums.append(0)
   n = len(nums)
