@@ -12,3 +12,4 @@
 | 18/01/24 | [MEDIUM](https://leetcode.com/problems/reverse-integer/submissions/1149979914) | 7 | **Reverse Integer** | Given a signed 32-bit integer **`x`**, return **`x`** with its digits reversed.  If reversing **`x`** causes the value to go outside the signed 32-bit integer range **[-2<sup>31</sup>, 2<sup>31</sup> - 1]**, then return **0**. |
 | 19/01/24 | [MEDIUM](https://leetcode.com/problems/integer-to-roman/submissions/1150471549) | 12 | **Integer to Roman** | Convert given integer **`num`** to Roman numeral. | 
 | 19/01/24 | [EASY](https://leetcode.com/problems/roman-to-integer/submissions/1150418959) | 13 | **Roman to Integer** | Convert given Roman numeral **`s`** to integer. | 
+| 21/01/24 | [EASY](https://leetcode.com/problems/valid-parentheses/submissions/1152377433) | 20 | **Valid Parantheses | Given a string **`s`** containing just the characters **'(', ')', '{', '}', '[' and ']'**, determine if the input string is valid. |
