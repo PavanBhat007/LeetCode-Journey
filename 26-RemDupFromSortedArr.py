@@ -16,7 +16,7 @@ Return k.
 
 # -----------------------------------------------------------------------------------------------------
 
-def removeDuplicates(nums: list[int]) -> int:
+def removeDuplicates(nums: list[int]) -> list:
   i=1
   j=0
   while i < len(nums):
@@ -26,7 +26,7 @@ def removeDuplicates(nums: list[int]) -> int:
       j += 1
       nums[j] = nums[i]
 
-  return {j+1: nums[:j+1]}
+  return nums[:j+1]
 
 if __name__ == "__main__":
   arr = [int(x) for x  in input("ARR: ").strip().split(" ")]
