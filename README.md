@@ -23,3 +23,9 @@
 | 28/01/24 | [EASY](https://leetcode.com/problems/plus-one/submissions/1159171361) | 66 | **Plus One** | You are given a large integer represented as an integer array **`digits`**, where each **`digits[i]`** is the **i<sup>th</sup>** digit of the integer. The **`digits`** are ordered from most significant to least significant in left-to-right order. Increment the large integer by one and return the resulting array of **`digits`**. |
 | 28/01/24 | [EASY](https://leetcode.com/problems/add-binary/submissions/1159191246) | 67 | **Add Binary** | Given two binary strings **`a`** and **`b`**, return their sum as a binary string. |
 | 29/01/24 | [EASY](https://leetcode.com/problems/remove-duplicates-from-sorted-list/submissions/1160139873) | 83 | **Remove Duplicates from Linked List** | Given the **`head`** of a sorted linked list, delete all duplicates such that each element appears only once. |
+
+### ***Started learning C++***
+
+| **DATE** | **DIFFICULTY** | **PROBLEM NO:** | **PROBLEM NAME** | **PROBLEM DESCRIPTION** |
+|:---------:|:--------------:|:----------------:|:---------------:|:---------:|
+| 17/07/24 | [MEDIUM](https://leetcode.com/problems/set-matrix-zeroes/submissions/1324408983/) | 76 | **Set Matrix Zeroes** | Given an **`m x n`** integer matrix **`matrix`**, if an element is **`0`**, set its entire row and column to **`0`**'s. |
