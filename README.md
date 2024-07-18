@@ -29,3 +29,4 @@
 | **DATE** | **DIFFICULTY** | **PROBLEM NO:** | **PROBLEM NAME** | **PROBLEM DESCRIPTION** |
 |:---------:|:--------------:|:----------------:|:---------------:|:---------:|
 | 17/07/24 | [MEDIUM](https://leetcode.com/problems/set-matrix-zeroes/submissions/1324408983/) | 76 | **Set Matrix Zeroes** | Given an **`m x n`** integer matrix **`matrix`**, if an element is **`0`**, set its entire row and column to **`0`**'s. |
+| 18/07/24 | [EASY](https://leetcode.com/problems/pascals-triangle/submissions/1325437166/) | 118 | **Pascal's Traingle** | ![Pascal's Triangle](images/pascal'sTriangle.png) <br/> Given an integer **`numRows`**, return the first **`numRows`** of **Pascal's triangle**. In **Pascal's triangle**, each number is the sum of the two numbers directly above it, as shown above.|
